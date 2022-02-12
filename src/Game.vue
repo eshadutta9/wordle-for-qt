@@ -6,7 +6,7 @@ import { LetterState } from './types'
 
 // Get word of the day
 //const answer = getWordOfTheDay()
-const answer = $ref('loser')
+const answer = $ref('mine')
 // Board state. Each tile is represented as { letter, state }
 const board = $ref(
   Array.from({ length: 6 }, () =>
