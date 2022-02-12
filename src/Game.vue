@@ -113,7 +113,7 @@ function completeRow() {
       setTimeout(() => {
         grid = genResultGrid()
         showMessage(
-            'Happy Valentine\'s Day! Will you be my _____',
+            'Happy Valentine\'s Day, Adithya! You are a _____ pie',
           //['Genius', 'Magnificent', 'Impressive', 'Splendid', 'Great', 'Phew'][
           //  currentRowIndex
           //],
